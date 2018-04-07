@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/wacheda/eclipse/eclipse
+Name=Eclipse
+GeneriName=An IDE for C/C++ development
+Icon=/home/wacheda/eclipse/icon.xpm
+Terminal=false
+Categories=Development;IDE;C++
+MimeType=text/x-c++src;text/x-c++hdr;text/x-xsrc;aplication/x-designer;
